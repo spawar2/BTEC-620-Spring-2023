@@ -23,6 +23,7 @@ https://youtu.be/bmWCnSMhUDk
 https://youtu.be/7UOA1hC2V5k
 
 Phylogenetic Analysis: https://youtu.be/IMIP4la-K84
+https://github.com/spawar2/BTEC-620-Spring-2023/blob/main/Phylogenetic-Analysis.R
 
 https://youtu.be/UEsXMfE_7Rg
 
