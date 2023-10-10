@@ -1,4 +1,4 @@
-[# BTEC-620-Spring-2023 4 credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620-1)
+[# BTEC-620-Spring-2023 4 Credits](https://pawar1550.wixsite.com/claflin-courses/copy-of-biol620-1)
 
 Youtube Teaching Channel: https://www.youtube.com/playlist?list=PLKka-JHtsz80sJ_uQ8wZ4cnLNB9yRJNoV
 
