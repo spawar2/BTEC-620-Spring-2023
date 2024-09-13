@@ -23,4 +23,4 @@ https://www.claflin.edu/
 
 
 April-11.Rd: Phylogenetics tree analysis.
-Jan-26.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, Fold-change analysis.
+Jan-26.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
