@@ -24,5 +24,5 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 
 April-11.Rd: Phylogenetics tree analysis.
 Jan-26.Rd: Microarray datasets readin, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
-function(read.tree, plot, str, write.tree, library, setwd, ReadAffy, RMA, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, read.table)
+selected function(read.tree, plot, str, write.tree, library, setwd, ReadAffy, RMA, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, read.table)
 
