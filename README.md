@@ -23,7 +23,7 @@ https://www.claflin.edu/ https://www.claflin.edu/academics-research/schools-depa
 ![download](https://github.com/user-attachments/assets/5939f997-69b5-4b9c-83c6-d21152135786)
 
 https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
-
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-biology
 https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 April-11.Rd: Phylogenetics tree analysis.
 Jan-26.Rd: Microarray datasets reading, Robust Multiarray normalization, boxplot visualizations, file exports in csv, txt format, Fold-change analysis.
